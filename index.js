@@ -1,3 +1,3 @@
 console.log("hola Mundo desde vscode");
-var a = "Esto es una prueba para ser subida a GitHub";
+var a = "Another GitHub change";
 document.write(a);
